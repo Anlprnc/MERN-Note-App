@@ -1,7 +1,6 @@
-GET http://localhost:5000/api/notes
+DELETE http://localhost:5000/api/notes/657e0700b6d0a7771f808317
 Content-Type: application/json
 
 {
-    "title": "Test 2",
-    "text": "Test text 2"
+    "title": "Updated"
 }
